@@ -14,8 +14,8 @@ public class PrecedenciaJava {
 		
 		//Java va a hacer la siguiente operacion: 7/4: 1,75 (quita los decimales) 
 		//1*3:3+5:8
-//		int oper= 5+3*(7/4);
-//		System.out.println(oper);
+		int oper= 5+3*(7/4);
+		System.out.println(oper);
 		
 		
 		
@@ -27,8 +27,8 @@ public class PrecedenciaJava {
 		 *  
 		 * */
 		
-//		boolean operacion= 3<= 5 && 2==2;
-//		System.out.println(operacion);
+		boolean operacion= 3<= 5 && 2==2;
+		System.out.println(operacion);
 		
 		/*
 		 * Otro punto importante es el casteo, es decir, cuando hay un valor entero
